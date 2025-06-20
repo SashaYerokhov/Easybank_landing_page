@@ -439,7 +439,7 @@ li {
     z-index: 9;
   }
   .hero {
-    padding-inline-start: 0;
+    padding-inline: 10px;
     flex-direction: column-reverse;
     row-gap: 50px;
     background-image: url("../images/bg-intro-mobile.svg");
