@@ -475,7 +475,7 @@ li {
     margin-bottom: 25px;
   }
   .choose__operation {
-    grid-template-columns: 325px;
+    grid-template-columns: 1fr;
     row-gap: 35px;
   }
   .choose__operation-item {
@@ -494,7 +494,7 @@ li {
     margin-bottom: 40px;
   }
   .articles__wrapper {
-    grid-template-columns: 325px;
+    grid-template-columns: 1fr;
     row-gap: 20px;
   }
   .articles__item {
